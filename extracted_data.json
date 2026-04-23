@@ -1,0 +1,24 @@
+{
+  "projections": {
+    "years": ["1T21", "1T22", "1T23", "1T24", "1T25", "1T26", "1T27", "1T28", "1T29", "1T30"],
+    "receita_liquida": [759.00, 951.00, 2459.00, 2005.00, 4424.00, 5087.60, 5850.74, 6728.35, 7737.60, 8898.24],
+    "ebitda": [442.00, 474.00, 1169.00, 1089.00, 1528.00, 1846.30, 1973.39, 2088.96, 2185.11, 2251.50],
+    "margem_ebitda": [58.20, 49.80, 47.50, 54.30, 34.50, 36.29, 33.73, 31.05, 28.24, 25.30]
+  },
+  "valuation_metrics": {
+    "enterprise_value": 78895,
+    "divida_liquida": -16955,
+    "equity_value": 61940,
+    "preco_alvo": 39.20,
+    "upside": 43.7
+  },
+  "wacc_components": {
+    "risk_free": 10.50,
+    "beta_alavancado": 0.90,
+    "equity_risk_premium": 5.50,
+    "cost_of_equity": 15.45,
+    "cost_of_debt": 11.50,
+    "after_tax_cost_of_debt": 7.59,
+    "wacc": 11.68
+  }
+}
